@@ -1,0 +1,81 @@
+.coffee-sec
+{
+	background-color:#000;
+}
+.coffee-container
+{
+	width:90%;
+	margin:auto;
+	margin-top:70px;
+	
+}
+
+
+
+.coffee-row
+{
+	display:flex;
+	width:100%;
+	margin:20px;
+}
+
+
+
+.coffee-para h4
+{
+	margin-top:60px;
+	color:#f0c89e;
+	
+}
+
+.coffee-para{
+	width:50%;
+}
+.
+
+.coffee
+{
+	width:50%;
+}
+
+.coffee-para p{
+	color:#87877e;
+	font-size:19px;
+	line-height:1.2;
+	margin-top:10px;
+	margin-bottom:30px;
+}
+
+.coffee-para h1
+{
+	color:#fff;
+	font-size:35px;
+	line-height:1.2;
+}
+
+
+
+.docter-img
+{
+	width:80%;
+	display:flex;
+	background-color:#c49b62;
+	border-radius:5px;
+	align-items:center;
+	
+	}
+	
+	
+.italic i{
+	color:#fff;
+	font-size:20px;
+	
+
+  
+}
+
+.docter-cof{
+	padding:10px;
+	border-radius:4px;
+
+}
